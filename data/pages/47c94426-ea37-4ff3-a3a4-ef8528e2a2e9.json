@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-19T15:47:24.432Z",
+  "created_by": "Dananji",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2024-11-19T15:47:24.432Z",
+  "updated_by": "Dananji",
+  "parent": "c643aaa0-6ff0-4444-8de1-aa526b6ebe0b",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec"
+  }
+}

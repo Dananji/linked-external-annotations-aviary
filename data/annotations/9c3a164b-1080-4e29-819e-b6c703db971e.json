@@ -1,0 +1,2023 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Herbert Halpert",
+  "annotations": [
+    {
+      "start_time": 11.079545,
+      "end_time": 15.805785,
+      "annotation": [
+        {
+          "text": "Well, is it known, is it a consistent song as you hear it all over?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ff08bd09-b890-4c81-ac4c-e3b2845908de"
+    },
+    {
+      "start_time": 23.863636,
+      "end_time": 23.863636,
+      "annotation": [
+        {
+          "text": "I mean does it have the same choral verses? Does it have 'Mule on the Mount' wherever you hear it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "eff47379-ba34-4e61-aa88-4d3e51223713"
+    },
+    {
+      "start_time": 34.788223,
+      "end_time": 38.119835,
+      "annotation": [
+        {
+          "text": "Where did you learn it this particular way?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3d89ffb3-dcd5-4d23-86b5-eaf7f9352f5e"
+    },
+    {
+      "start_time": 45.829029,
+      "end_time": 47.572314,
+      "annotation": [
+        {
+          "text": "And this is one version you're going to sing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "104875d5-d769-47cd-a91b-425264ab281d"
+    },
+    {
+      "start_time": 52.76343,
+      "end_time": 53.267045,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "77f6fbb1-bc96-489d-87ab-1a9e2f37502c"
+    },
+    {
+      "start_time": 218.570509,
+      "end_time": 226.239669,
+      "annotation": [
+        {
+          "text": "When you hear that sung, or nearly sung, about how many verses does a man know? He doesn't know as many as you do."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "d61a476e-6ed4-4e89-9f80-c76d0dfaa4be"
+    },
+    {
+      "start_time": 229.300103,
+      "end_time": 230.772211,
+      "annotation": [
+        {
+          "text": "Is one of these continuous?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "528b7f6d-c765-4bd4-84d9-3ad817651017"
+    },
+    {
+      "start_time": 236.893079,
+      "end_time": 236.893079,
+      "annotation": [
+        {
+          "text": "[inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "cafeebb8-73ac-450f-a2d0-7654ce2a84fe"
+    },
+    {
+      "start_time": 247.159091,
+      "end_time": 248.360021,
+      "annotation": [
+        {
+          "text": "What's your name, please?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3f1f1b74-8a1b-4c10-96e6-d47b490ba004"
+    },
+    {
+      "start_time": 250.258264,
+      "end_time": 251.420455,
+      "annotation": [
+        {
+          "text": "Where do you come from?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "75123996-393b-424b-aab2-205e39fe15e9"
+    },
+    {
+      "start_time": 255.333161,
+      "end_time": 256.61157,
+      "annotation": [
+        {
+          "text": "Where? What part of South Georgia?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "f35bb010-11e9-4c39-afac-c0cc41ee703e"
+    },
+    {
+      "start_time": 257.85124,
+      "end_time": 258.897211,
+      "annotation": [
+        {
+          "text": "And how old are you?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4f647e05-fd69-4305-8b12-ed39fa447554"
+    },
+    {
+      "start_time": 260.21436,
+      "end_time": 262.383781,
+      "annotation": [
+        {
+          "text": "And what are you going to tell us or?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "606b3078-5955-4cf0-8ffa-0f11655738ab"
+    },
+    {
+      "start_time": 267.536157,
+      "end_time": 268.233471,
+      "annotation": [
+        {
+          "text": "How long ago?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "dc9b8971-1195-480b-a913-d4019c3689c9"
+    },
+    {
+      "start_time": 270.015496,
+      "end_time": 271.448864,
+      "annotation": [
+        {
+          "text": "A short, a short while back."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "afb51280-8d38-4ed0-bb92-cc5e9b67f3dc"
+    },
+    {
+      "start_time": 274.780475,
+      "end_time": 277.376033,
+      "annotation": [
+        {
+          "text": "I mean, how did it, it happened long ago . . . what do you mean by that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "837343f7-f238-4759-a08e-c07ac114537a"
+    },
+    {
+      "start_time": 280.475207,
+      "end_time": 282.141012,
+      "annotation": [
+        {
+          "text": "Well, how did it go? I mean how did it --"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ed0312f5-7ed1-41e6-bb3d-fb0bbaa34457"
+    },
+    {
+      "start_time": 287.332128,
+      "end_time": 287.874483,
+      "annotation": [
+        {
+          "text": "Uh-huh"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "6e81778f-89df-4214-95dd-08f7fc3c4e4f"
+    },
+    {
+      "start_time": 290.121384,
+      "end_time": 293.143079,
+      "annotation": [
+        {
+          "text": "The negro told it to him when? I mean did he ever tell you that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "03a65f35-b0c0-4495-8ce9-55c802578470"
+    },
+    {
+      "start_time": 296.784607,
+      "end_time": 298.954029,
+      "annotation": [
+        {
+          "text": "I mean the negro had just told him the story?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "8df0f2cd-22e9-4927-a111-a98a0c6bf487"
+    },
+    {
+      "start_time": 300.929752,
+      "end_time": 306.895661,
+      "annotation": [
+        {
+          "text": "I see. And you don't have any name for it? Is that right?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "1bb71402-a4a9-4d62-a414-a7d67e65b337"
+    },
+    {
+      "start_time": 311.079545,
+      "end_time": 312.629132,
+      "annotation": [
+        {
+          "text": "Just, okay, [laughing] go ahead ."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "72d15c7e-5e51-4342-8be8-a962f41a6644"
+    },
+    {
+      "start_time": 315.689566,
+      "end_time": 318.440083,
+      "annotation": [
+        {
+          "text": "Well, let's start off with just one. That's the easiest way."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "13f3301f-7f19-41dc-a707-3db8c6180205"
+    },
+    {
+      "start_time": 319.098657,
+      "end_time": 322.120351,
+      "annotation": [
+        {
+          "text": "Alright. Well, can you tell it or are you going to tell it or read it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9b4abe39-e831-4825-95e5-e0a29a959675"
+    },
+    {
+      "start_time": 324.251033,
+      "end_time": 325.878099,
+      "annotation": [
+        {
+          "text": "Alright. Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "889e684a-38f5-4d91-8fea-fdaba58befdc"
+    },
+    {
+      "start_time": 446.43595,
+      "end_time": 452.634298,
+      "annotation": [
+        {
+          "text": "Now look, suppose you don't read it from there and you just tell me it as a story. Go ahead. You can do it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "07f9f3d2-6798-42ec-bb69-559d26220047"
+    },
+    {
+      "start_time": 452.169421,
+      "end_time": 452.866736,
+      "annotation": [
+        {
+          "text": "Alright. Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e2f7e0a3-8ca1-4805-bb74-246c0859239a"
+    },
+    {
+      "start_time": 455.113636,
+      "end_time": 455.733471,
+      "annotation": [
+        {
+          "text": "Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "977c2124-1e9a-4f97-bf07-90b1894edc3a"
+    },
+    {
+      "start_time": 550.645661,
+      "end_time": 556.766529,
+      "annotation": [
+        {
+          "text": "I think it's better if you explain just how the cards, which way the cards get out or how people are standing there before you go on."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "dc47ba41-3dc0-46c0-918a-5c32cb029aa9"
+    },
+    {
+      "start_time": 581.792355,
+      "end_time": 581.792355,
+      "annotation": [
+        {
+          "text": "Well, what does he do? Is the dealer holding the deck of cards?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "8026e8ac-e6dd-48a5-826b-471773bf07a1"
+    },
+    {
+      "start_time": 588.30062,
+      "end_time": 588.30062,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "bcb033a8-7f6a-4060-8518-75693ca5cd65"
+    },
+    {
+      "start_time": 592.019628,
+      "end_time": 592.019628,
+      "annotation": [
+        {
+          "text": "He just turns over . . ."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "1984a8f3-dc51-4480-ae8f-d895f6ac8ea2"
+    },
+    {
+      "start_time": 808.57438,
+      "end_time": 813.997934,
+      "annotation": [
+        {
+          "text": "What, is it sung before the respectable ladies?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "48e10828-fe9d-4fdc-b12c-6279942cc3f6"
+    },
+    {
+      "start_time": 821.43595,
+      "end_time": 823.450413,
+      "annotation": [
+        {
+          "text": "I thought you heard it from women?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "87585d01-f99c-4bb8-85f7-e20c3106d040"
+    },
+    {
+      "start_time": 825.774793,
+      "end_time": 826.510847,
+      "annotation": [
+        {
+          "text": "Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ddb9e40e-b1b2-4734-bd3e-087eb7d8a1c3"
+    },
+    {
+      "start_time": 954.855372,
+      "end_time": 956.133781,
+      "annotation": [
+        {
+          "text": "Is there more to it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "aa64c88a-4a8f-4b16-8bdb-144b4a851e45"
+    },
+    {
+      "start_time": 965.41894,
+      "end_time": 967.93122,
+      "annotation": [
+        {
+          "text": "I think that's a very valuable contribution to scientific recording."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "6418ed9f-62b7-4c39-9609-cd129e65a1e2"
+    },
+    {
+      "start_time": 972.133264,
+      "end_time": 972.133264,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "7db3f8a0-e581-48c6-9f25-740f62426cc2"
+    },
+    {
+      "start_time": 983.21281,
+      "end_time": 983.832645,
+      "annotation": [
+        {
+          "text": "Well, what type of song is it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "c96ce3ee-c85d-446a-8061-01661e4086e2"
+    },
+    {
+      "start_time": 1018.676758,
+      "end_time": 1022.460938,
+      "annotation": [
+        {
+          "text": "How do they play it? Would you tell us very quickly?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "89cfb19c-7d6d-49db-829f-75ebca3e38be"
+    },
+    {
+      "start_time": 1026.872417,
+      "end_time": 1028.654442,
+      "annotation": [
+        {
+          "text": "Was it, is it solo dancing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "7a7421f4-5594-49ab-8fad-b63d3dee2d03"
+    },
+    {
+      "start_time": 1029.739153,
+      "end_time": 1031.327479,
+      "annotation": [
+        {
+          "text": "Well, what kind of group is it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "d7a340b0-8e1d-4eba-8b65-18f8cdd87b2d"
+    },
+    {
+      "start_time": 1050.852273,
+      "end_time": 1052.518079,
+      "annotation": [
+        {
+          "text": "Where did you get it"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4c70eab0-2742-449d-97ca-50d1ed51a71e"
+    },
+    {
+      "start_time": 1056.856921,
+      "end_time": 1061.583161,
+      "annotation": [
+        {
+          "text": "Can you tell me, do you know how old a Blues it is? And how you happened to learn it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3971332c-7b44-495c-8519-2ec7c5fe106a"
+    },
+    {
+      "start_time": 1195.738636,
+      "end_time": 1196.745868,
+      "annotation": [
+        {
+          "text": "Who did you hear it from and when?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "63c506cb-8b41-42cf-bdcd-04e12d2c70ec"
+    },
+    {
+      "start_time": 1272.055785,
+      "end_time": 1275.817871,
+      "annotation": [
+        {
+          "text": "You said you learned it in a crowd. How do you learn most of your songs?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "99bca0db-1bd4-4fde-9e61-81e2a21de4e4"
+    },
+    {
+      "start_time": 1303.710938,
+      "end_time": 1307.617188,
+      "annotation": [
+        {
+          "text": "Well how about those that you have in your books and publish in the journals?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "2e710089-5f6d-4592-8835-22b7db554c40"
+    },
+    {
+      "start_time": 1388.429752,
+      "end_time": 1390.98657,
+      "annotation": [
+        {
+          "text": "You say that was uh. . . when was that sung?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "be29b4bf-998a-4749-a131-5035b00e6753"
+    },
+    {
+      "start_time": 1406.172521,
+      "end_time": 1406.172521,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "78b9550d-ac5d-4110-b47d-2c1560d84aca"
+    },
+    {
+      "start_time": 1428.680269,
+      "end_time": 1430.501033,
+      "annotation": [
+        {
+          "text": "Where did you pick up the way you sing it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "12168fb3-d831-4e8d-af0a-eb8d64a94e6a"
+    },
+    {
+      "start_time": 1593.052686,
+      "end_time": 1594.757231,
+      "annotation": [
+        {
+          "text": "Just play it for me in ballad."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "336f9303-4599-4809-a77f-f306f04cc9fc"
+    },
+    {
+      "start_time": 104220,
+      "end_time": 104220,
+      "annotation": [
+        {
+          "text": "Your name, age?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ce8254ac-734b-4669-b9f8-dc8bf0fd530f"
+    },
+    {
+      "start_time": 104700,
+      "end_time": 104700,
+      "annotation": [
+        {
+          "text": "And where were you brought up?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "17e4a69e-955f-43a8-b9e6-9fa3720dea9a"
+    },
+    {
+      "start_time": 105360,
+      "end_time": 105360,
+      "annotation": [
+        {
+          "text": "Uh, huh, What do you mean 'voice'? Singing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "6bbfc86a-2a01-4e03-8844-98d62ecb2b0a"
+    },
+    {
+      "start_time": 105540,
+      "end_time": 105540,
+      "annotation": [
+        {
+          "text": "Uh-huh, Alright. But you were brought up, most of your life, you spent right around here?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "bcc70960-2390-417e-b181-b99ca6e843de"
+    },
+    {
+      "start_time": 106440,
+      "end_time": 107640,
+      "annotation": [
+        {
+          "text": "Alright, now you'll tell the story. Apparently the interest in the story is just to have you talk naturally and at the same time, we'll have the story. So, would you try --"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b88f4890-9338-4774-98c6-624fe35a42b8"
+    },
+    {
+      "start_time": 1838.623047,
+      "end_time": 1844.055176,
+      "annotation": [
+        {
+          "text": "Dr. Corse would you please explain why we asked to have this record made?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "f9863a03-a3bb-4723-bd78-2b3c4becc3d3"
+    },
+    {
+      "start_time": 1873.168945,
+      "end_time": 1874.328613,
+      "annotation": [
+        {
+          "text": "Dr. Corse will you please introduce the speaker?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "c4791ef5-a6d2-4a0e-96d2-0814a5eccf4f"
+    },
+    {
+      "start_time": 116700,
+      "end_time": 116700,
+      "annotation": [
+        {
+          "text": "Can you state your name, your age, and your occupation?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "23c9eeab-0188-416c-b7ce-5a9548ead2a3"
+    },
+    {
+      "start_time": 1960.876465,
+      "end_time": 1964.488636,
+      "annotation": [
+        {
+          "text": "And, uh, you are also a preacher, aren't you, sir? What congregation?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "16613501-63ca-4001-8d03-d0e6ed4413c0"
+    },
+    {
+      "start_time": 1967.200413,
+      "end_time": 1974.096074,
+      "annotation": [
+        {
+          "text": "Now, uh, this isn't part of your usual, as a missionary Baptist, does your church approve of singing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "a101d116-bf5a-4529-9319-ec6972fe8097"
+    },
+    {
+      "start_time": 1976.110537,
+      "end_time": 1980.139463,
+      "annotation": [
+        {
+          "text": "You're going to help us out with these, however?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "2997954c-ad8c-4cf9-aecb-f6af2f1b8504"
+    },
+    {
+      "start_time": 119160,
+      "end_time": 119160,
+      "annotation": [
+        {
+          "text": "Now you have one, you have that holler, that uh?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b04e329c-3a8b-405b-80f0-1465ae72eb2e"
+    },
+    {
+      "start_time": 119520,
+      "end_time": 119520,
+      "annotation": [
+        {
+          "text": "What, would you explain something about how it was used and when or something like that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "2dd7730f-2d60-427b-9e52-6b1b4bdc98e4"
+    },
+    {
+      "start_time": 119880,
+      "end_time": 119880,
+      "annotation": [
+        {
+          "text": "Go ahead. Tell me something about it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e94f1b2d-e453-4258-b392-b38c6ee22ab2"
+    },
+    {
+      "start_time": 2025.387397,
+      "end_time": 2029.416322,
+      "annotation": [
+        {
+          "text": "Let me interrupt you here. Now that, that, what would you call that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "45f2d69a-69a7-4941-806c-b24313cb2e41"
+    },
+    {
+      "start_time": 2051.497934,
+      "end_time": 2056.68905,
+      "annotation": [
+        {
+          "text": "Suppose you give the effect of actually being out on the farm?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "20fc7d12-aa32-48ea-84b9-88857b7e2713"
+    },
+    {
+      "start_time": 2102.925898,
+      "end_time": 2102.925898,
+      "annotation": [
+        {
+          "text": "No, no there's another one without words."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "fee2a08e-6a61-44e4-8dd8-f25900fc3ff2"
+    },
+    {
+      "start_time": 127320,
+      "end_time": 127320,
+      "annotation": [
+        {
+          "text": "How would it sound, suppose someone had just haerd it, what would they hear?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "0d3b4f44-2334-439b-a2f7-35e0152f347c"
+    },
+    {
+      "start_time": 2151.489258,
+      "end_time": 2153.615702,
+      "annotation": [
+        {
+          "text": "Where would the two of them be?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3d80f299-2587-4aa8-a47e-7b70091af6ff"
+    },
+    {
+      "start_time": 2174.987793,
+      "end_time": 2176.177979,
+      "annotation": [
+        {
+          "text": "Would they be near each other? Or? Or?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4a41dace-47e8-4f71-a0e7-a850bace50a0"
+    },
+    {
+      "start_time": 2179.534912,
+      "end_time": 2183.227539,
+      "annotation": [
+        {
+          "text": "Would you do it again? Was it the same effect between a quarter mile [inaudible] do a quarter mile."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "59b80a33-45fa-48e5-9fc7-6a4e20bd503b"
+    },
+    {
+      "start_time": 2280.991736,
+      "end_time": 2282.77376,
+      "annotation": [
+        {
+          "text": "Are there more verses to that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "a84f7c72-3bc7-4d39-b0cf-dfc8b12882e3"
+    },
+    {
+      "start_time": 137160,
+      "end_time": 137160,
+      "annotation": [
+        {
+          "text": "Will you sing that, will you repeat the point [inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4f5e3202-9bb4-41b5-bf67-8f45d2e9feab"
+    },
+    {
+      "start_time": 2326.049805,
+      "end_time": 2346.384298,
+      "annotation": [
+        {
+          "text": "Now, Those last directions, were they taught, is that what he called out for them to do?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ecf25058-06ac-4005-a0db-42361118d766"
+    },
+    {
+      "start_time": 139980,
+      "end_time": 139980,
+      "annotation": [
+        {
+          "text": "What do they do on the song part, I mean."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "36518318-ab2a-4d8b-aa04-cee2c7a06798"
+    },
+    {
+      "start_time": 140160,
+      "end_time": 140160,
+      "annotation": [
+        {
+          "text": "They'd be dancing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "2816c9f1-f987-4044-9d5f-9a8508ddaee7"
+    },
+    {
+      "start_time": 140460,
+      "end_time": 140460,
+      "annotation": [
+        {
+          "text": "I see. The last part was giving directions. The rest of the time they were dancing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "32919abd-7306-4a28-8207-d46fd9fd6411"
+    },
+    {
+      "start_time": 140760,
+      "end_time": 140760,
+      "annotation": [
+        {
+          "text": "What kind of dancing were they doing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "95f102f2-c025-4b2c-aa55-1fee0795e707"
+    },
+    {
+      "start_time": 141360,
+      "end_time": 141360,
+      "annotation": [
+        {
+          "text": "Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "d3454ac7-5c81-4f0c-a65d-2a6983eb51b4"
+    },
+    {
+      "start_time": 2400.146484,
+      "end_time": 2402.099609,
+      "annotation": [
+        {
+          "text": "Is that you as a kid? You learned it as a boy?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b9309c60-60b9-475f-8a7d-7526b548964f"
+    },
+    {
+      "start_time": 2531.25,
+      "end_time": 2532.257231,
+      "annotation": [
+        {
+          "text": "How old are you?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "0d8b135b-2687-4ad8-80e1-d025c95b6dcd"
+    },
+    {
+      "start_time": 2535.666322,
+      "end_time": 2536.596074,
+      "annotation": [
+        {
+          "text": "And where were you brought up?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "665c45d5-5219-44d2-be22-02a55b0c7303"
+    },
+    {
+      "start_time": 2539.540289,
+      "end_time": 2541.709711,
+      "annotation": [
+        {
+          "text": "And what is it, tell us about what you are going to sing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "5234032e-73ba-4322-b017-4f57016f60ed"
+    },
+    {
+      "start_time": 153420,
+      "end_time": 153420,
+      "annotation": [
+        {
+          "text": "You did? Well, woud you start in with?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "26815d69-072c-40f0-b836-c62ed840c93f"
+    },
+    {
+      "start_time": 2560.459711,
+      "end_time": 2564.488636,
+      "annotation": [
+        {
+          "text": "When you were small did you play it with a guitar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "53713151-e51b-4fea-a9fd-5b0f35e4f029"
+    },
+    {
+      "start_time": 2565.340909,
+      "end_time": 2565.340909,
+      "annotation": [
+        {
+          "text": "You're playing it with a guitar since then. Why are you singing it with a guitar? Can you sing it without?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4370470c-eefe-4102-9ec3-8c2dbd8bc48c"
+    },
+    {
+      "start_time": 2571.306818,
+      "end_time": 2571.306818,
+      "annotation": [
+        {
+          "text": "Well, would you try it without?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "56935e32-0f56-4e81-ba4d-f6c592db7535"
+    },
+    {
+      "start_time": 2574.018595,
+      "end_time": 2574.018595,
+      "annotation": [
+        {
+          "text": "Try it without."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "97f4ed2e-1b2d-4449-b583-388e35499079"
+    },
+    {
+      "start_time": 2576.497934,
+      "end_time": 2579.442149,
+      "annotation": [
+        {
+          "text": "That's alright. Don't worry about it. Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "83c1357f-021e-40be-9973-de2d01f67a62"
+    },
+    {
+      "start_time": 2639.648438,
+      "end_time": 2643.676758,
+      "annotation": [
+        {
+          "text": "And that's one you used to, you used to play games to that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "47bfd8d2-7b55-4164-9741-db6ab3eeaaa1"
+    },
+    {
+      "start_time": 2651.730372,
+      "end_time": 2651.730372,
+      "annotation": [
+        {
+          "text": "Explain about that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b8cc9fba-e62c-4320-b352-64481d06d972"
+    },
+    {
+      "start_time": 2664.524148,
+      "end_time": 2667.768595,
+      "annotation": [
+        {
+          "text": "Well, where was this? Where would you be? You wouldn't be doing it in the church."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9aca5e87-e5dd-4c10-9168-6f895827b451"
+    },
+    {
+      "start_time": 2668.969525,
+      "end_time": 2669.318182,
+      "annotation": [
+        {
+          "text": "Just playing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "523f820a-989b-4298-8076-fa591df728ee"
+    },
+    {
+      "start_time": 2669.860537,
+      "end_time": 2669.860537,
+      "annotation": [
+        {
+          "text": "Uh-huh"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "aac28456-a204-4e60-b441-524d77215459"
+    },
+    {
+      "start_time": 2765.005165,
+      "end_time": 2766.283574,
+      "annotation": [
+        {
+          "text": "And where were you brought up?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4e46ecb5-201e-46ea-bd93-76e2497d0f46"
+    },
+    {
+      "start_time": 2768.336777,
+      "end_time": 2771.43595,
+      "annotation": [
+        {
+          "text": "And, uh, what are you going to [inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "a81a752e-ee64-45ef-86d9-05ffd19decf8"
+    },
+    {
+      "start_time": 2777.014463,
+      "end_time": 2778.873967,
+      "annotation": [
+        {
+          "text": "And what was it called?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "35aa8132-1426-4c13-a700-54465d4ec621"
+    },
+    {
+      "start_time": 2783.21281,
+      "end_time": 2784.762397,
+      "annotation": [
+        {
+          "text": "Alright. Sing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "497e6fd3-997a-42f2-a59b-6a15a921ccd2"
+    },
+    {
+      "start_time": 2832.024793,
+      "end_time": 2835.123967,
+      "annotation": [
+        {
+          "text": "How did they play that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "1f76759a-b7d8-4bb7-ab63-9b67407f88a0"
+    },
+    {
+      "start_time": 2843.956612,
+      "end_time": 2843.956612,
+      "annotation": [
+        {
+          "text": "Well now, how do you, was there somebody [inaudible]."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "919220a8-05ad-4e74-b2cb-b020b5f97465"
+    },
+    {
+      "start_time": 2849.690083,
+      "end_time": 2849.690083,
+      "annotation": [
+        {
+          "text": "Could you pat the way they did? Take it over again and do the patting."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "01f366e8-fd9a-45fc-b000-fbcf9c733b45"
+    },
+    {
+      "start_time": 2857.438017,
+      "end_time": 2857.438017,
+      "annotation": [
+        {
+          "text": "Alright"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "22c38ad3-d2e9-4edc-a71b-1d22dca35c48"
+    },
+    {
+      "start_time": 2862.86157,
+      "end_time": 2862.86157,
+      "annotation": [
+        {
+          "text": "Oh, I see, well sing that and don't do your hands [Inaudible]."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "5d0c33e8-3c02-4a7e-8ee3-781a874511ed"
+    },
+    {
+      "start_time": 173760,
+      "end_time": 173760,
+      "annotation": [
+        {
+          "text": "Now, what kind of motion would they do?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "22eb8c81-44c5-47ef-9684-740f16ea72f2"
+    },
+    {
+      "start_time": 2983.886719,
+      "end_time": 3003.051758,
+      "annotation": [
+        {
+          "text": "[Inaudible] Just sitting down is alright. Well no, I want to get it close to you. I'm going to put it around here.  Now, you just face in that direction. Talk right out. [Adjusts the microphone]."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "61d2f763-5e9a-47f7-bbc8-410d8c752372"
+    },
+    {
+      "start_time": 3004.64876,
+      "end_time": 3005.714101,
+      "annotation": [
+        {
+          "text": "And how old are you?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "56cacd41-86be-4a37-9079-885bb2d5dccd"
+    },
+    {
+      "start_time": 3008.445248,
+      "end_time": 3008.445248,
+      "annotation": [
+        {
+          "text": "Tell us about this game. Where you learned it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "65148fd6-9753-45a9-bbff-59daa1ac58f5"
+    },
+    {
+      "start_time": 3035.020661,
+      "end_time": 3040.134298,
+      "annotation": [
+        {
+          "text": "Well, what, how did it go on? What else happened? What happened in the game?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "80f26a01-aaa0-4d19-90cc-a9c7ac94efbd"
+    },
+    {
+      "start_time": 3045.092975,
+      "end_time": 3051.717459,
+      "annotation": [
+        {
+          "text": "As if they were flying like a turkey? How was it played and how did they start off play"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4fce508e-da9c-46d4-91e5-7b3e192b724f"
+    },
+    {
+      "start_time": 184140,
+      "end_time": 184140,
+      "annotation": [
+        {
+          "text": "Now you'll have to talk a little bit louder now on the next game."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "05845a17-6905-4816-a517-e959adf426da"
+    },
+    {
+      "start_time": 184860,
+      "end_time": 184980,
+      "annotation": [
+        {
+          "text": "Alright. How does it go?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ed7ec74c-181b-4b9d-a605-8095728049e5"
+    },
+    {
+      "start_time": 3141.244835,
+      "end_time": 3142.639463,
+      "annotation": [
+        {
+          "text": "And where were you brought up?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "bc3199ea-246f-47b7-84f4-a9d1db94b9f4"
+    },
+    {
+      "start_time": 3146.43595,
+      "end_time": 3146.43595,
+      "annotation": [
+        {
+          "text": "Where did you learn this particular song?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "38bd7cf0-ea62-4c0d-9ea2-46d8d2edd6a2"
+    },
+    {
+      "start_time": 3150.774793,
+      "end_time": 3153.331612,
+      "annotation": [
+        {
+          "text": "How did you learn it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e0c1aaaf-da10-4fba-bac1-cb39a646d8f2"
+    },
+    {
+      "start_time": 3159.762397,
+      "end_time": 3161.389463,
+      "annotation": [
+        {
+          "text": "What is this one called?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9ddc0644-7940-4b55-9e49-4f83b7fb6cda"
+    },
+    {
+      "start_time": 3166.270661,
+      "end_time": 3168.827479,
+      "annotation": [
+        {
+          "text": "I like that. Alright. Let's hear it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "5d95df55-988d-4fc0-904d-6aa80bbcc4f0"
+    },
+    {
+      "start_time": 198480,
+      "end_time": 198480,
+      "annotation": [
+        {
+          "text": "What would they sing it for?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "167eaac2-1436-4c52-8259-69a4ebcd608d"
+    },
+    {
+      "start_time": 3317.936467,
+      "end_time": 3319.369835,
+      "annotation": [
+        {
+          "text": "What kind of work were they doing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "039a3f91-235e-46d2-931e-1f76b61e7db7"
+    },
+    {
+      "start_time": 3323.747417,
+      "end_time": 3330.294421,
+      "annotation": [
+        {
+          "text": "And these were the mule-skinners who were doing the singing? And what do they do? Sing the song while they were [inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "accdebc9-f019-4a27-ac91-40cb1936b648"
+    },
+    {
+      "start_time": 3339.088326,
+      "end_time": 3340.289256,
+      "annotation": [
+        {
+          "text": "And what is the name of this song?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "7628453b-e48b-484d-9878-e767b5679b84"
+    },
+    {
+      "start_time": 3342.381198,
+      "end_time": 3343.969525,
+      "annotation": [
+        {
+          "text": "Now how did you happen to learn it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "26d46e1f-b0d9-4736-8ce8-359c3591eff6"
+    },
+    {
+      "start_time": 3356.443698,
+      "end_time": 3356.443698,
+      "annotation": [
+        {
+          "text": "While they were driving spikes. Could you mark off how the hammers would be coming down? Just where they'd be coming, hitting against this."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "a4913c76-4bb2-4a6a-a9fb-e1dded8799a1"
+    },
+    {
+      "start_time": 201960,
+      "end_time": 198360,
+      "annotation": [
+        {
+          "text": "Yeah, that would be good."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "27431350-5801-494d-9b61-13e28d89fc7b"
+    },
+    {
+      "start_time": 3367.98812,
+      "end_time": 3380.384814,
+      "annotation": [
+        {
+          "text": "[Banging] Alright. Can you, You can double-drive as long as you don't double-drive on the microphone. Alright. That's fine. Now, uh, and, This is 'John' -- you were telling me that this 'John Henry' wasn't sung the same way always? I mean, they wouldn't begin --"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "80b01497-b82f-4b4a-900e-4fdc9c53447d"
+    },
+    {
+      "start_time": 3391.580579,
+      "end_time": 3395.028409,
+      "annotation": [
+        {
+          "text": "Well now tell me, uh, but did they always have the same tune to it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "be24f210-416d-44c2-9e4e-bc745c2c9df3"
+    }
+  ]
+}

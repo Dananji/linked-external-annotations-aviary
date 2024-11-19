@@ -1,0 +1,23 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Rolla Southworth",
+  "annotations": [
+    {
+      "start_time": 1891.662598,
+      "end_time": 1934.039256,
+      "annotation": [
+        {
+          "text": "Rolla Southworth: Well, Dr. Corse it would really seem that we have finally grown up as a nation when we can spend the day recording such folklore as we have heard today. And this is only the beginning and in only one city. Think of the endless material alone throughout Florida. Now although we are in the deep South, our state, with Mr. Call, has a very cosmopolitan group. As a matter of fact, the flags of five nations have flown over Florida. Isn't that a fact? And what a wealth of material that will indicate. Personally, my greatest interest is in the Negro Folklore and how justly proud we all are of Zora Hurston whose fine literary ability and wealth of experience has made our recordings possible today."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rolla Southworth"
+        }
+      ],
+      "uuid": "53a1c027-800e-47cb-8bd1-65595ef357b1"
+    }
+  ]
+}

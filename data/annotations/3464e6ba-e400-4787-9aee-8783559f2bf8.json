@@ -1,0 +1,487 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Beatrice Lange",
+  "annotations": [
+    {
+      "start_time": 248.360021,
+      "end_time": 249.677169,
+      "annotation": [
+        {
+          "text": "Beatrice Lange."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "c003e917-e865-4d2e-9514-28acf04f12cd"
+    },
+    {
+      "start_time": 252.272727,
+      "end_time": 254.713326,
+      "annotation": [
+        {
+          "text": "I came from South Georgia."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "74e25b31-e775-45f0-85fa-624a8d95d836"
+    },
+    {
+      "start_time": 256.68905,
+      "end_time": 257.425103,
+      "annotation": [
+        {
+          "text": "Woodbine."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "66bccd58-9947-495d-b775-b3e8aa53b77c"
+    },
+    {
+      "start_time": 259.207128,
+      "end_time": 259.943182,
+      "annotation": [
+        {
+          "text": "35"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "81c5f5a9-a8ef-4aab-84cb-59876f6dedf4"
+    },
+    {
+      "start_time": 262.383781,
+      "end_time": 266.761364,
+      "annotation": [
+        {
+          "text": "Well, I'm going to tell some folk stories that my brother-in-law told me."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "a591c76a-ce94-44d8-bef1-7a861e636548"
+    },
+    {
+      "start_time": 268.620868,
+      "end_time": 270.247934,
+      "annotation": [
+        {
+          "text": "About a year ago."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "5a39c80e-a1a2-4466-954c-38a95cadeb18"
+    },
+    {
+      "start_time": 271.410124,
+      "end_time": 274.625517,
+      "annotation": [
+        {
+          "text": "Well, it happened longer than that but he told me about a year ago."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "33cab200-1725-4632-a1c7-fe286efb621a"
+    },
+    {
+      "start_time": 277.376033,
+      "end_time": 280.475207,
+      "annotation": [
+        {
+          "text": "I mean that the story happened longer than that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "8ae12ac0-bd6f-4409-b160-089edd4f6c67"
+    },
+    {
+      "start_time": 282.141012,
+      "end_time": 286.867252,
+      "annotation": [
+        {
+          "text": "Well, this old negro of his told him about it. The negro belonged to his father."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "3b938b26-10c3-4918-889b-38603c7adb0b"
+    },
+    {
+      "start_time": 287.874483,
+      "end_time": 289.114153,
+      "annotation": [
+        {
+          "text": "Who had a rice plantation."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "a8c9d569-61e0-42e0-adf8-ce209e208831"
+    },
+    {
+      "start_time": 293.143079,
+      "end_time": 296.203512,
+      "annotation": [
+        {
+          "text": "About six months to a year ago."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "2b6b6460-de79-4b03-86eb-c1148cab89f7"
+    },
+    {
+      "start_time": 298.566632,
+      "end_time": 300.929752,
+      "annotation": [
+        {
+          "text": "Yes, while he was working with him."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "cdb8034a-dd1c-43d4-bfb4-384695856498"
+    },
+    {
+      "start_time": 307.05062,
+      "end_time": 310.653409,
+      "annotation": [
+        {
+          "text": "Well, uh, it's a storm story, a hurricane story."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "a8d67373-c087-4dc8-b0c6-ab589f845561"
+    },
+    {
+      "start_time": 312.629132,
+      "end_time": 315.689566,
+      "annotation": [
+        {
+          "text": "I have several stories though. This is just one."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "3588dc4c-5dba-4e5c-9c11-e61f88bc1bcd"
+    },
+    {
+      "start_time": 318.440083,
+      "end_time": 319.098657,
+      "annotation": [
+        {
+          "text": "Alright, sir."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "686795ac-6b73-4b2e-afe3-12cdb678c4a9"
+    },
+    {
+      "start_time": 322.31405,
+      "end_time": 323.786157,
+      "annotation": [
+        {
+          "text": "Well I can kind of glance at it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "478e0ecf-40ba-4ab5-8bad-93b5c307a99b"
+    },
+    {
+      "start_time": 326.652893,
+      "end_time": 333.626033,
+      "annotation": [
+        {
+          "text": "Uh, this story happened during the fall of 1898 upon a small island off of the coast of Georgia"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "f3fe306d-d95f-47d6-8d04-0351540e1ff7"
+    },
+    {
+      "start_time": 334.207128,
+      "end_time": 343.155992,
+      "annotation": [
+        {
+          "text": "Where the sea level was very low. Came a hurricane which covered the whole island in several feet of water and most of the natives had to swim around in their homes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "be679818-d346-4dfc-9970-1c266ee45ed1"
+    },
+    {
+      "start_time": 343.543388,
+      "end_time": 350.40031,
+      "annotation": [
+        {
+          "text": "One particular instance which calls to mind is that of an old negrum owned by one of the early rice planters."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "5b2da3ba-715a-4a42-ae35-8d7825db781f"
+    },
+    {
+      "start_time": 351.252583,
+      "end_time": 362.332128,
+      "annotation": [
+        {
+          "text": "He tells: Yes sir, we were swimming around in that water trying to find a shallow place when we seen some of them pretty long neck bottles floating around. Look like them water in 'em."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "877280ae-ba69-413e-b898-ff0bb3d4bbde"
+    },
+    {
+      "start_time": 362.874483,
+      "end_time": 376.510847,
+      "annotation": [
+        {
+          "text": "So we drink some and before long we was glad to have some been come because it sure made us feel good. Sure wish I could have some of that stuff now. Boss, I believe that been shampoo."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "d8a847ce-9b93-4945-8fa1-89618b0adff7"
+    },
+    {
+      "start_time": 377.556818,
+      "end_time": 382.166839,
+      "annotation": [
+        {
+          "text": "Further on the flooded plantation, the boss paddled his canoe up to the loft of the barn."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "16b045d1-b701-42c2-ba6b-d55861f69d2f"
+    },
+    {
+      "start_time": 382.554236,
+      "end_time": 401.497934,
+      "annotation": [
+        {
+          "text": "There sat another of his n-- with a big stick in his hand as if he was going to strike something. Even that the hole in the side of the barn where the [inaudible] was stored had looked as if a board had been torn off. He glanced over in the corner and there'n a pile of dead coons which looked like a hundred or so."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "a94b4d42-ae8f-4680-9762-572b43591364"
+    },
+    {
+      "start_time": 401.497934,
+      "end_time": 433.57438,
+      "annotation": [
+        {
+          "text": "As the boss approached, he said, 'By grade, Tom, what have you been doing here?' He replied in a dramatic voice, 'Boss, I's just been praying all the time, how's that good for the ole master to come take this water back where it belong so we's could get back to work. Boss, I've been a praying every chance that I'm got to liberation.' 'Well, from the looks of the coons you killed, you didn't have time to pray much, Tom'. 'Mass Donald,  I wouldn't have killed 'em but they kept barring me from praying all the time.'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "9470b7f6-4baa-40b9-a68c-9834a10f3e43"
+    },
+    {
+      "start_time": 433.57438,
+      "end_time": 446.126033,
+      "annotation": [
+        {
+          "text": "Another story I told of an old native of Georgia came to Florida in the nineties to seek adventure. This old cracker who really lived in the backwoods had a name of being the biggest liar in the country."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "edbd704c-3027-4705-bbf6-fa4ed7956d6a"
+    },
+    {
+      "start_time": 451.007231,
+      "end_time": 452.169421,
+      "annotation": [
+        {
+          "text": "Just let me glance at it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "0ec41c73-886b-4a69-be4c-8b7d6bb1f69f"
+    },
+    {
+      "start_time": 452.866736,
+      "end_time": 453.951446,
+      "annotation": [
+        {
+          "text": "[Laughter]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "dfe13473-aa7a-4751-a018-2ff97bc7509a"
+    },
+    {
+      "start_time": 456.198347,
+      "end_time": 467.58781,
+      "annotation": [
+        {
+          "text": "He said me and my son Israel, we went down to Floridy to pick oranges. Huh. They grow so big you can fill a water bucket full with four of 'em."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "1024ffbf-66a6-4bc5-b489-eaddf0a63d06"
+    },
+    {
+      "start_time": 468.285124,
+      "end_time": 484.478306,
+      "annotation": [
+        {
+          "text": "The alligators, they were so tame, and I bet we had about a hundred and fifty, every day we went down to the palmetto patch and whistled and they would come running under the palmetto patch at me and crawl up on my shoulders and talk to me."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "e7998600-c19e-4392-a94e-08a7940881e9"
+    },
+    {
+      "start_time": 486.105372,
+      "end_time": 496.177686,
+      "annotation": [
+        {
+          "text": "Why down there we cut down the palmetto trees to make fence posts and they is the best you ever seen. They would last a hundred years. I know because I tried them twice."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Beatrice Lange"
+        }
+      ],
+      "uuid": "261d741a-70a4-45d7-b8b5-fb291d45e4ad"
+    }
+  ]
+}

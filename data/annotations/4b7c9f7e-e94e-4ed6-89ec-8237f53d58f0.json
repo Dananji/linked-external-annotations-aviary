@@ -1,0 +1,455 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Songs",
+  "annotations": [
+    {
+      "start_time": 56.404959,
+      "end_time": 218.491736,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Mule on the Mount'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fc5acdb3-e1ac-48e7-8f05-6b3d03e42119"
+    },
+    {
+      "start_time": 625.442772,
+      "end_time": 769.369835,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Let the Deal Go Down'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "2e104c44-2f48-4f15-89d3-c8992fcfa5ed"
+    },
+    {
+      "start_time": 826.549587,
+      "end_time": 953.770661,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Uncle Bud'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "0d55f3ec-796c-4d91-86db-c6d06e306e80"
+    },
+    {
+      "start_time": 989.333678,
+      "end_time": 1036.596074,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Oh the Buford Boat Done Come'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "757c252c-1136-4719-aa36-1b98fb802251"
+    },
+    {
+      "start_time": 1077.427686,
+      "end_time": 1188.378099,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Cuz Ever Been Down'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "2dbca0bb-310e-4f72-86fa-066af64c0cfd"
+    },
+    {
+      "start_time": 1210.692149,
+      "end_time": 1269.034091,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Halimuhfack'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "f0e5fa6d-65a1-40a0-b966-028e2ed2d79b"
+    },
+    {
+      "start_time": 1339.630127,
+      "end_time": 1386.802686,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Tampa'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "1efc3ba0-9df5-428f-81c6-89860f1cf718"
+    },
+    {
+      "start_time": 1438.171488,
+      "end_time": 1583.057851,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Po Boy'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7996a6be-63c2-4ff3-999f-bd091c9ddafd"
+    },
+    {
+      "start_time": 1623.424587,
+      "end_time": 1728.719008,
+      "annotation": [
+        {
+          "text": "Zora Neale Hurston sings 'Mama Don't Want No Peas No Rice'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8c8adadb-b41d-436a-a842-00f1242d5b01"
+    },
+    {
+      "start_time": 2000.427246,
+      "end_time": 2025.309917,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "42aa1e90-1ce9-4dd6-b01d-8a564cc5da99"
+    },
+    {
+      "start_time": 2057.678223,
+      "end_time": 2096.126033,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "7365bce7-7ae7-4604-854b-a560cab5b428"
+    },
+    {
+      "start_time": 2127.01416,
+      "end_time": 2148.114669,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "84f3f16d-b1cd-40a1-963c-3568e0c914ff"
+    },
+    {
+      "start_time": 2185.180664,
+      "end_time": 2185.180664,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "8641dba1-ff64-4a97-a6d0-1dc5ac5857ab"
+    },
+    {
+      "start_time": 2244.506836,
+      "end_time": 2280.371901,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "f095be30-0bbf-4c28-a7df-1b36e31d3cfc"
+    },
+    {
+      "start_time": 2290.283203,
+      "end_time": 2325.542355,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "cf12768a-7706-401b-a15a-7d3d09e87201"
+    },
+    {
+      "start_time": 2374.267578,
+      "end_time": 2398.527893,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "ff74b3df-5af5-404c-a5b3-51867d2475fc"
+    },
+    {
+      "start_time": 2411.010742,
+      "end_time": 2433.238636,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "4833965c-1e53-46e2-9ea8-cefe69c1011c"
+    },
+    {
+      "start_time": 2468.261719,
+      "end_time": 2518.078512,
+      "annotation": [
+        {
+          "text": "H. W. Stuckey sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "H. W. Stuckey"
+        }
+      ],
+      "uuid": "65240ad2-968b-4b2a-a943-8e36291faa06"
+    },
+    {
+      "start_time": 2579.589844,
+      "end_time": 2635.769628,
+      "annotation": [
+        {
+          "text": "Irene Jackson sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "059ee789-621d-46c6-b48b-1862a3a131d7"
+    },
+    {
+      "start_time": 2673.828125,
+      "end_time": 2702.556818,
+      "annotation": [
+        {
+          "text": "Irene Jackson sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "aa632ceb-3cf7-4aa2-9086-85f432f3e758"
+    },
+    {
+      "start_time": 2718.383789,
+      "end_time": 2757.334711,
+      "annotation": [
+        {
+          "text": "Irene Jackson chants"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "aeba297b-68de-46e0-9660-9447c99316de"
+    },
+    {
+      "start_time": 2785.522461,
+      "end_time": 2785.522461,
+      "annotation": [
+        {
+          "text": "Alabama Singleton sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "d49838cf-fd61-4078-beb5-69c445dc89df"
+    },
+    {
+      "start_time": 2867.553711,
+      "end_time": 2894.47314,
+      "annotation": [
+        {
+          "text": "Alabama Singleton sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "3f728c5b-168e-4d02-bb5c-4c63bdccf9b0"
+    },
+    {
+      "start_time": 2913.574219,
+      "end_time": 2944.679752,
+      "annotation": [
+        {
+          "text": "Alabama Singleton sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "189618d0-0806-4681-b12a-889546861e31"
+    },
+    {
+      "start_time": 2950.195312,
+      "end_time": 2971.952479,
+      "annotation": [
+        {
+          "text": "Alabama Singleton sings"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "7ba0af66-a2fe-401e-a8c5-4274a36a98b5"
+    },
+    {
+      "start_time": 3078.409091,
+      "end_time": 3095.764463,
+      "annotation": [
+        {
+          "text": "Maggie Fulton sings a song"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "24abf6b9-ade4-4f5d-8c9c-2a74dfe5d05e"
+    },
+    {
+      "start_time": 3168.595041,
+      "end_time": 3228.56405,
+      "annotation": [
+        {
+          "text": "Harold B. Hazelhurst sings 'The Captain's Mule'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Harold B. Hazelhurst"
+        }
+      ],
+      "uuid": "159d34a9-e210-451f-8c66-31d7f511e43d"
+    },
+    {
+      "start_time": 3236.77686,
+      "end_time": 3300.929752,
+      "annotation": [
+        {
+          "text": "Harold B. Hazelhurst sings John Henry"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Harold B. Hazelhurst"
+        }
+      ],
+      "uuid": "4a956a47-d1a5-4f41-b3a7-3cd115ac8865"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Games",
+  "annotations": [
+    {
+      "start_time": 3021.539256,
+      "end_time": 3033.316116,
+      "annotation": [
+        {
+          "text": "Maggie Fulton chants a game"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "f02912d7-d1b1-4a96-aab4-44396bd06cc3"
+    },
+    {
+      "start_time": 3100.258264,
+      "end_time": 3100.258264,
+      "annotation": [
+        {
+          "text": "Maggie Fulton demonstrates a game"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "afbbac72-386a-4b2b-a543-f218b9751755"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "event_id": "f0341d63-d7f9-4229-84a4-0b49152c65ec",
+  "source_id": "f0070bd2-1659-4235-a552-d6ac6f863de1",
+  "set": "Carita Doggett Corse",
+  "annotations": [
+    {
+      "start_time": 1844.055176,
+      "end_time": 1863.15918,
+      "annotation": [
+        {
+          "text": "This record was made for the purpose of recording the annunciation of an educated Southern white voice. And the story was one which was recorded by the Federal Writers as part of their work for the American guide series volume that's Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "1aaddebb-2cca-4027-b11f-c823fe29ca47"
+    },
+    {
+      "start_time": 1875.427246,
+      "end_time": 1890.930176,
+      "annotation": [
+        {
+          "text": "This is Mrs. Rolla Southworth, State Director of the Professional Service Projects of the WPA in Florida who will give us her opinion of the recording program of the folk songs in Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "012c2061-08b8-4cd4-b16f-7ca83cfa84b8"
+    },
+    {
+      "start_time": 1934.082031,
+      "end_time": 1935.302734,
+      "annotation": [
+        {
+          "text": "Thank you, Ms. Southworth."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "19413657-1ba8-4757-b0af-a3dda83ab963"
+    }
+  ]
+}
